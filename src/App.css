@@ -1,0 +1,22 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.App {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: #c2f800;
+  margin-bottom: 20px;
+}
